@@ -1,0 +1,22 @@
+all login details for CMS --->
+
+
+Super-Admin:->
+
+username: superadmin
+password: superadmin
+
+Admin:->
+
+username: admin
+password: adminpass
+
+User:->
+
+username: user
+password: userpass 
+
+
+username: Parizat
+password: 123456789
+
